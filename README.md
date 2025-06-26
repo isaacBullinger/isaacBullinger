@@ -21,4 +21,3 @@ I use Linux daily and care deeply about privacy, automation, and open-source sof
 My goal: Help small businesses with tailored digital solutions as a freelance developer.
 
 Let's connect on [LinkedIn](www.linkedin.com/in/isaac-bullinger-1a04352ab)
-Contact me: isaac.k.bullinger [at] gmail [dot] com
