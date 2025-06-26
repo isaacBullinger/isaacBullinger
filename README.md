@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I am Isaac 👋
 
-<!--
-**isaacBullinger/isaacBullinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack software engineer with experience building production ready tools.
 
-Here are some ideas to get you started:
+Some of my work includes:
+- Custom portfolio websites tailored to client needs
+- Bash scripts for WordPress automation
+- UI designs for MVP validation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use Linux daily and care deeply about privacy, automation, and open-source software.
+
+### Tech and Tools
+- Languages: JavaScript, PHP, Python, C#, C++, SQL, Bash
+- Tools: Git, VS Code, NeoVim, WordPress, cPanel
+- Frameworks: Jasmine, Sass, Katalon
+
+### Professional Projects
+- [Savings Calculator](http://ss.digitalspawn.com/calculator) – Automated PDF and email tool
+- Stripe Checkout System – Secure custom payment interface
+
+My goal: Help small businesses with tailored digital solutions as a freelance developer.
+
+Let's connect on [LinkedIn](www.linkedin.com/in/isaac-bullinger-1a04352ab)
+Contact me: isaac.k.bullinger [at] gmail [dot] com
